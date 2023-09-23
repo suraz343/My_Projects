@@ -1,0 +1,12 @@
+body{
+    background-color: darkslateblue;
+    margin:0%;
+    border: 10px;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-weight: 200%;
+    font-size: larger;
+}
